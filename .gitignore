@@ -23,7 +23,9 @@ node_modules/
 .env.test
 
 # Build output
-dist
+packages/*/dist
+plugins/s3-viewer-common/dist
+plugins/s3-viewer-node/dist
 dist-types
 
 # Temporary change files created by Vim
