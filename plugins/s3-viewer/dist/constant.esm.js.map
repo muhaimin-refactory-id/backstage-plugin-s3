@@ -1,0 +1,1 @@
+{"version":3,"file":"constant.esm.js","sources":["../src/constant.ts"],"sourcesContent":["export const S3_VIEWER_BUCKET = 's3-viewer/bucket';"],"names":[],"mappings":"AAAO,MAAM,gBAAmB,GAAA;;;;"}
